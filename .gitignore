@@ -1,0 +1,7 @@
+*
+!main.zig
+!startup.S
+!linker.ld
+!Makefile
+!README.md
+!.gitignore
